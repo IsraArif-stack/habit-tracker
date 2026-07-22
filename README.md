@@ -193,29 +193,7 @@ habit-tracker/
 
 ---
 
-# 🖼️ Screenshots
 
-Add screenshots of your application here:
-
-- Dashboard
-- Habit Cards
-- Heatmap
-- Weekly Analytics Chart
-- Dark Mode Interface
-
-
-Example:
-
-```
-screenshots/
-
-├── dashboard.png
-├── heatmap.png
-├── analytics.png
-└── dark-mode.png
-```
-
----
 
 # 🎯 Problem Statement
 
